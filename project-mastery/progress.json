@@ -1,0 +1,20 @@
+{
+  "lastUpdated": "2025-11-16T16:00:00Z",
+  "currentPhase": "teaching-guide",
+  "completedPhases": [
+    "initialization",
+    "project-overview",
+    "database-analysis",
+    "backend-analysis",
+    "frontend-analysis",
+    "security-analysis",
+    "deployment-analysis",
+    "prompts-generated",
+    "specification-cn"
+  ],
+  "nextPhase": "specification-en",
+  "filesAnalyzed": 7,
+  "totalFiles": 7,
+  "percentComplete": 90,
+  "language": "both"
+}
